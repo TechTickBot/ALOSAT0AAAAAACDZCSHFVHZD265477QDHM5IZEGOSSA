@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         MIRROR五周年樂園活動
+// @name         ERROR五周年樂園活動
 // @version      正式
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
